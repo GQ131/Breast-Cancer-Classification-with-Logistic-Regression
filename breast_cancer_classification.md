@@ -2,7 +2,8 @@
 
 
 ## Step 1: I explore the Breast Cancer Dataset via visualizations
-    
+    <img width="595" alt="Screenshot 2024-10-03 at 11 50 35" src="https://github.com/user-attachments/assets/4b3b5f9a-7407-477e-8529-29549e8202e5">
+
   
 
 
