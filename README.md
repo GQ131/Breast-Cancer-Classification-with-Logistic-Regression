@@ -1,2 +1,4 @@
 # Breast-Cancer-Classification-with-Logistic-Regression
-The primary objective of this project is to develop a predictive model to accurately classify breast cancer tumors as either malignant or benign. It uses decision trees to predict cancer diagnosis. 
+How can we develop an efficient and reliable system to support healthcare professionals in accurately diagnosing breast cancer?
+
+This project addresses this critical question by leveraging logistic regression to build a predictive model that distinguishes between malignant and benign cases, providing a foundational approach for implementing AI in healthcare diagnostics
