@@ -25,7 +25,7 @@ Some potential business use cases are:
 - It can support clinical trials by predicting which subgroups are more likely to benefit from targeted therapies.
 - **Impact:** Accelerates drug development and improves personalized medicine approaches by helping to stratify patient cohorts more effectively.
 
-## 4. Insurance Risk Assessment and Premium Optimization
+### 4. Insurance Risk Assessment and Premium Optimization
 
 - Insurance companies can utilize the model’s predictions to inform insurance providers about the likelihood of cancer cases.
 - It can enable more accurate risk profiling for insurance underwriting and premium calculation.
